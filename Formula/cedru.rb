@@ -3,7 +3,7 @@ class Cedru < Formula
   homepage "https://github.com/solidSpoon/cedru"
   url "https://github.com/myuser/cedru/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "下载文件的 SHA256 值"
-  license "你的开源许可证"
+  license "Apache License 2.0"
 
   depends_on "rust" => :build
 
